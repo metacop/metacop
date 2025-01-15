@@ -1,5 +1,5 @@
 
-I'm Carlos Terrazas, a passionate full stack web developer who's worked for awesome companies like  Telefonica, Xorex, Septum.
+I'm Carlos Terrazas, a passionate full stack web developer who's worked for awesome companies like  Telefonica, Xorex, Septum,Fractalia
 
 Technologies I'm experienced with
 
